@@ -9,4 +9,6 @@ public class modelo(){
 	private String commitondevelop;
 	
 	private String creadoEnMainDespuesdelMerge;
+	
+	private String creadoEnDevelopDespuesdelPull;
 }

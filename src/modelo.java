@@ -7,4 +7,6 @@ public class modelo(){
 	
 	private String ramaDevelop;
 	private String commitondevelop;
+	
+	private String creadoEnMainDespuesdelMerge;
 }

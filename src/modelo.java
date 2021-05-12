@@ -9,4 +9,14 @@ public class modelo(){
 	private String commitondevelop;
 	
 	private String creadoEnMainDespuesdelMerge;
+	
+	cambios en feature02
+	
+	public void calcula(){
+
+}
+
+public String retorno(){
+	return null;
+}
 }

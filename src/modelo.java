@@ -15,4 +15,8 @@ public class modelo(){
 	public void calcula(){
 
 }
+
+public String retorno(){
+	return null;
+}
 }

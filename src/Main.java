@@ -8,6 +8,6 @@ public void main Main(){
 	//Rama main mergeada, otro cambio
 	
 	public static void main(String[] args){
-		
+		String prueba;
 	}
 }

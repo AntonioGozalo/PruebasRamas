@@ -6,4 +6,8 @@ public void main Main(){
 	//Texto modificado en rama main
 	
 	//Rama main mergeada, otro cambio
+	
+	public static void main(String[] args){
+		
+	}
 }
